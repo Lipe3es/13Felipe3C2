@@ -1,0 +1,21 @@
+h3 {
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(79, 79, 79, 0.8);
+    width: 400px;
+    height: 600px;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 15px;
+    box-shadow: 0 0 5px black;
+    margin-left: 39%;
+    margin-top: 5%;
+}
